@@ -1,0 +1,6 @@
+load("@rules_cc//cc:rules.bzl", "cc_library")
+
+cc_library(
+    name = "test",
+    srcs = [],
+)
